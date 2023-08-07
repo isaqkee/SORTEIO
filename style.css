@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@800&family=Poppins:wght@700;800&family=Roboto+Slab:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@800&family=Poppins:wght@700;800&family=Roboto+Slab:wght@800&family=Tektur&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(29, 105, 197, 0.758);
+}
+
+.container{
+    align-items: center;
+    text-align: center;
+    margin-top: 300px;
+    border-top: 4px solid black;
+    border-left: 4px solid black ;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    border-radius: 8px;
+
+}
+
+.container h2{
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+    outline: none;
+}
+
+.entrada{
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+
+#min{
+    font-size: 15px;
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+#max{
+    font-size: 15px;
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
+#sortear{
+    font-size: 20px;
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+    
+}
+
+#sortear:hover{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+ 
+}
+
+#resultado{
+    font-family: 'Hepta Slab', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tektur', cursive;
+}
+
